@@ -3,7 +3,7 @@ import json
 import ast
 from datetime import datetime
 
-INPUT_CSV = "data/tracks.csv"
+INPUT_CSV = "data/tracks_sample.csv"
 OUTPUT_JSON = "data/tracks.json"
 
 
