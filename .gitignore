@@ -1,0 +1,9 @@
+﻿node_modules/
+client/node_modules/
+client/dist/
+
+# Configuracion Firebase
+client/.env.local
+client/env.download
+data/firebase-import.json
+/package-lock.json
