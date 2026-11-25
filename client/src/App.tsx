@@ -192,7 +192,7 @@ export function App() {
             {sectionTitles[activeTab]}
           </Typography>
 
-          <FilterBar filters={filters} onFilterChange={handleFilterChange} />
+          <FilterBar tracks={tracks} filters={filters} onFilterChange={handleFilterChange} />
         </Stack>
 
         {/* Tarjetas KPI */}
